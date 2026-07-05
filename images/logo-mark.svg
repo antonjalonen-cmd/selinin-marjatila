@@ -1,0 +1,15 @@
+<svg viewBox="0 0 640 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="smLogoTitle">
+  <title id="smLogoTitle">Selinin Marjatila, Launonen</title>
+  <g fill="none" stroke="#7A2320" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- minimal strawberry mark -->
+    <path d="M80 96c-18 0-32 16-32 38 0 20 16 40 32 40s32-20 32-40c0-22-14-38-32-38Z" />
+    <path d="M80 96V80M68 84l-8-10M92 84l8-10" />
+  </g>
+  <circle cx="70" cy="112" r="2.5" fill="#7A2320" stroke="none" />
+  <circle cx="92" cy="118" r="2.5" fill="#7A2320" stroke="none" />
+  <circle cx="80" cy="140" r="2.5" fill="#7A2320" stroke="none" />
+  <text x="180" y="94" font-family="'Bitter', Georgia, serif" font-size="38" font-weight="600" letter-spacing="0.5" fill="#4A2A1D">Selinin</text>
+  <text x="180" y="140" font-family="'Bitter', Georgia, serif" font-size="38" font-weight="600" letter-spacing="0.5" fill="#4A2A1D">Marjatila</text>
+  <line x1="182" y1="158" x2="560" y2="158" stroke="#7A2320" stroke-width="2" />
+  <text x="182" y="182" font-family="'Rubik', Arial, sans-serif" font-size="15" letter-spacing="3" fill="#7A2320">LAUNONEN · LOPPI</text>
+</svg>
